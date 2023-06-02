@@ -1,0 +1,12 @@
+.appDiv {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.button {
+    background-color: blue;
+    color: white;
+    padding: 10px 20px;
+}
